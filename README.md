@@ -2,14 +2,6 @@
 
 Versão executável para Windows do projeto de portfólio **Sistema de Controle de Estoque e Vendas**.
 
-## Download correto
-
-[**Baixar EstoqueVendas.exe (Windows 64 bits)**](https://raw.githubusercontent.com/periclesac/sistema-controle-estoque-vendas-verWindows/main/EstoqueVendas.exe)
-
-O arquivo correto possui aproximadamente **22,45 MB**. Se o download tiver poucos
-quilobytes, ele é uma página HTML e não deve ser executado.
-
-- SHA-256: `1729CF9C102F7324A7112B5A05DDAA9A135532DB57D4F761FC446DDC6E71DE13`
 
 ## Como usar
 
