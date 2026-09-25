@@ -12,8 +12,8 @@ Versão executável para Windows do projeto de portfólio **Sistema de Controle 
 
 ### Acesso inicial
 
-- **Usuário:** `demo`
-- **Senha:** `demo1234`
+- **Usuário:** `@usuario`
+- **Senha:** `zxc123`
 
 Não é necessário instalar Python, Django ou banco de dados.
 
